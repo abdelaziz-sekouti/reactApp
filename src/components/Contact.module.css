@@ -1,0 +1,15 @@
+.cl{
+	background-color: #0ff;
+	color: #ffF;
+	text-align: center;
+/*	padding: 23px;*/
+	margin: auto;
+	width: 400px;
+	height: 400px;
+	font-size: 3rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 2px solid #f00;
+	text-transform: uppercase;
+}
