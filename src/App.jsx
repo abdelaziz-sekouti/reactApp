@@ -14,6 +14,7 @@ const App = ()=> {
   // const [count, setCount] = useState(0)
 
   return (
+    'hello wordpress '
     <>
     {/*comment*/} 
     <nav className="navbar navbar-expand-lg navbar-light bg-warning">
